@@ -1,4 +1,4 @@
 <?php
-$mysqli = new mysqli("localhost","root","","db_importar.");
+$mysqli = new mysqli("localhost","root","","bd_importar.");
 
 ?>
